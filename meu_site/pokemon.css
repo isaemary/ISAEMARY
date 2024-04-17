@@ -1,0 +1,13 @@
+.texto {
+    font-size: 42px;
+    display: inline;
+    margin: 0 auto;
+    width: 322px;
+    display: inline;
+}
+.black {
+    color: black
+}
+.gray {
+    color: #616161;
+}
