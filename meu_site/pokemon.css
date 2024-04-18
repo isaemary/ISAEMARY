@@ -1,13 +1,49 @@
 .texto {
     font-size: 42px;
     display: inline;
-    margin: 0 auto;
-    width: 322px;
-    display: inline;
+
 }
 .black {
     color: black
 }
 .gray {
     color: #616161;
+}
+
+.titulo { 
+    margin: 0 auto;
+    width: 322px;
+}
+
+.programa { 
+   display: flex;
+}
+
+.content { 
+    flex: 1;
+    font-size: 25px;
+    margin: center auto;
+}
+.pokebola {
+    width: 100px;
+    height: 55px;
+
+}
+.isaquel {
+    list-style: none;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 10px
+}
+.alinha{
+    align-items: center;
+}
+.background {
+    background-color: #30a7d7;
+    border-radius: 10px
+    
 }
